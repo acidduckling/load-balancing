@@ -1,0 +1,13 @@
+{
+  "name": "load-balancing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bottleneck": "^2.6.0",
+    "sleep": "^5.1.1"
+  }
+}
